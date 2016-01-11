@@ -7,9 +7,15 @@ Nowadays, autonomous intelligent robots are the target of extensive research on 
 
 
 
+### Navigation tests videos ###
+
+[Playlist available at Youtube](https://www.youtube.com/playlist?list=PL4_IabyfPD0viO0iUqIIF3dM01i0H3TL6), check it out!
+
+
+
 ### How do I get set up? ###
 
-* The work is detailed on the monograph (*pdf* file).
+* The work is detailed on the monograph (*pdf* file, in Portuguese).
 * The code’s main file is *Controlador.ino*. In order to run the project at Arduino IDE, keep their files at a folder named *Controlador*.
 * Project’s comments are still written on Portuguese.
 
