@@ -23,8 +23,11 @@ Nowadays, autonomous intelligent robots are the target of extensive research on 
 
 ### Contact info ###
 Mariam Afonso (mariam.afonso@gmail.com)
+###### Repository available at [Bitbucket](https://bitbucket.org/mariamafonso/tcc_arduino) and [GitHub](https://github.com/mariamafonso/tcc_arduino) ######
+
 
 ###### Federal University of Rio de Janeiro – UFRJ   |   Computer Science Department – DCC   |   Computational Intelligence Lab – LabIC ######
+
 
 
 ***
