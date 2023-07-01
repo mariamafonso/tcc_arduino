@@ -23,7 +23,6 @@ Nowadays, autonomous intelligent robots are the target of extensive research on 
 
 ### Contact info ###
 Mariam Afonso
-###### ( m a r i a m . a f o n s o @ g m a i l . c o m ) ######
 ###### Repository available at [Bitbucket](https://bitbucket.org/mariamafonso/tcc_arduino) and [GitHub](https://github.com/mariamafonso/tcc_arduino) ######
 
 
